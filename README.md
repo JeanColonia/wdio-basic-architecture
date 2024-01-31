@@ -7,6 +7,8 @@ This project is a sample of basic architecture to implement and execute your web
 * Nodejs v18
 * Typescript
 * Allure/Spec Reports
+* Cucumber
+* Chromedriver
 
 
 
